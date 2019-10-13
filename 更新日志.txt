@@ -1,0 +1,8 @@
+[UI_AILPCC_(beta)]
+2019.9.21
+javascript (UPdate)
+1.IP定位
+2.浏览器认别IE,google chrome,Opera,firefox
+2019.10.04
+1.增加名言(自定义)
+2.div class修改
